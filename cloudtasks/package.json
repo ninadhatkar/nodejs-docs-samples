@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "googleapis": "22.2.0",
-    "yargs": "10.0.3"
+    "yargs": "16.0.0"
   },
   "devDependencies": {
     "@google-cloud/nodejs-repo-tools": "2.1.0",
