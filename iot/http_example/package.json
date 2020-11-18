@@ -6,7 +6,7 @@
   "author": "Google Inc.",
   "main": "cloudiot_http_example_nodejs.js",
   "dependencies": {
-    "yargs": "8.0.2",
+    "yargs": "16.0.0",
     "jsonwebtoken": "7.4.1",
     "request": "2.82.0"
   },
