@@ -23,7 +23,7 @@
     "googleapis": "21.3.0",
     "moment": "2.18.1",
     "safe-buffer": "5.1.1",
-    "yargs": "9.0.1"
+    "yargs": "10.0.0"
   },
   "devDependencies": {
     "@google-cloud/nodejs-repo-tools": "1.4.17",
