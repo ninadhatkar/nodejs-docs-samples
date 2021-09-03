@@ -10,7 +10,13 @@
   },
   "dependencies": {
     "express": "4.14.1",
-    "parse-server": "2.3.2",
-    "nconf": "0.8.4"
-  }
+    "parse-server": "2.6.4",
+    "nconf": "0.8.4",
+    "@snyk/protect": "latest"
+  },
+  "scripts": {
+    "prepublish": "npm run snyk-protect",
+    "snyk-protect": "snyk-protect"
+  },
+  "snyk": true
 }
