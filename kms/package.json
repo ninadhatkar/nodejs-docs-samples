@@ -19,7 +19,7 @@
   "dependencies": {
     "googleapis": "20.1.0",
     "safe-buffer": "5.1.1",
-    "yargs": "8.0.2"
+    "yargs": "15.0.1"
   },
   "devDependencies": {
     "@google-cloud/nodejs-repo-tools": "1.4.17",
