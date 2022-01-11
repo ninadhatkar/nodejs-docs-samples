@@ -17,7 +17,7 @@
     "test": "samples test run --cmd ava -- -T 20s --verbose system-test/*.test.js"
   },
   "dependencies": {
-    "googleapis": "20.1.0",
+    "googleapis": "49.0.0",
     "safe-buffer": "5.1.1",
     "yargs": "8.0.2"
   },
