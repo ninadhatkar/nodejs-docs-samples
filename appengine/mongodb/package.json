@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "mongodb": "2.2.31",
-    "nconf": "0.8.4"
+    "nconf": "0.12.0"
   },
   "devDependencies": {
     "@google-cloud/nodejs-repo-tools": "^1.4.17"
