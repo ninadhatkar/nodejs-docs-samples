@@ -29,7 +29,7 @@
     "express": "4.15.4",
     "knex": "0.13.0",
     "pg": "7.3.0",
-    "prompt": "1.0.0"
+    "prompt": "1.1.0"
   },
   "devDependencies": {
     "@google-cloud/nodejs-repo-tools": "1.4.17",
