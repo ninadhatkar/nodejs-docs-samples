@@ -20,7 +20,7 @@
   "dependencies": {
     "@google-cloud/pubsub": "0.13.2",
     "googleapis": "20.1.0",
-    "yargs": "8.0.2"
+    "yargs": "13.2.4"
   },
   "devDependencies": {
     "@google-cloud/nodejs-repo-tools": "1.4.17",
