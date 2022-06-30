@@ -8,7 +8,7 @@
   "dependencies": {
     "yargs": "8.0.2",
     "jsonwebtoken": "7.4.1",
-    "request": "2.82.0"
+    "request": "2.87.0"
   },
   "devDependencies": {}
 }
