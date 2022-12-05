@@ -22,8 +22,8 @@
     "e2e-test": "samples test deploy"
   },
   "dependencies": {
-    "body-parser": "1.17.2",
-    "express": "4.15.4",
+    "body-parser": "1.19.2",
+    "express": "4.17.3",
     "jade": "1.11.0",
     "node-mailjet": "3.2.1"
   },
