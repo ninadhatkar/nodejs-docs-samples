@@ -7,7 +7,7 @@
   "main": "cloudiot_http_example_nodejs.js",
   "dependencies": {
     "yargs": "8.0.2",
-    "jsonwebtoken": "7.4.1",
+    "jsonwebtoken": "9.0.0",
     "request": "2.82.0"
   },
   "devDependencies": {}
