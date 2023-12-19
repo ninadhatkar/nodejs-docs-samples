@@ -7,7 +7,7 @@
   "author": "Google Inc.",
   "dependencies": {
     "yargs": "8.0.2",
-    "jsonwebtoken": "7.4.1",
+    "jsonwebtoken": "8.0.0",
     "mqtt": "2.7.2"
   },
   "devDependencies": {}
