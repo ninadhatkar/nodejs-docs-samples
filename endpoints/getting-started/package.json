@@ -19,8 +19,8 @@
     "test": "samples test run --cmd ava -- -T 20s --verbose test/*.test.js"
   },
   "dependencies": {
-    "body-parser": "1.17.2",
-    "express": "4.15.4",
+    "body-parser": "1.20.3",
+    "express": "4.21.0",
     "safe-buffer": "5.1.1"
   },
   "devDependencies": {
