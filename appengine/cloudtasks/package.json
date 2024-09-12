@@ -20,8 +20,8 @@
     "e2e-test": "repo-tools test deploy --config package.json --config-key cloud-repo-tools"
   },
   "dependencies": {
-    "body-parser": "1.18.2",
-    "express": "4.16.2",
+    "body-parser": "1.20.3",
+    "express": "4.21.0",
     "googleapis": "22.2.0",
     "yargs": "10.0.3"
   },
