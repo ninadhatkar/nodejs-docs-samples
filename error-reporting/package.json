@@ -21,7 +21,7 @@
     "test": "samples test run --cmd npm -- run all-test"
   },
   "dependencies": {
-    "@google-cloud/error-reporting": "0.2.1",
+    "@google-cloud/error-reporting": "0.5.2",
     "express": "4.15.4",
     "yargs": "8.0.2"
   },
