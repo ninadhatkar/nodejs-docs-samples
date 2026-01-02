@@ -21,8 +21,8 @@
     "e2e-test": "samples test deploy"
   },
   "dependencies": {
-    "@google-cloud/trace-agent": "2.1.3",
-    "express": "4.15.4",
+    "@google-cloud/trace-agent": "8.0.0",
+    "express": "4.22.0",
     "got": "7.1.0"
   },
   "devDependencies": {
