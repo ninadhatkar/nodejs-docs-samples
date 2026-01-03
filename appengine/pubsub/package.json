@@ -13,9 +13,9 @@
     "test": "samples test app && ava -T 30s */*.test.js"
   },
   "dependencies": {
-    "@google-cloud/pubsub": "0.13.2",
-    "body-parser": "1.17.2",
-    "express": "4.15.4",
+    "@google-cloud/pubsub": "0.20.0",
+    "body-parser": "1.20.4",
+    "express": "4.22.0",
     "pug": "2.0.0-rc.3",
     "safe-buffer": "5.1.1"
   },
